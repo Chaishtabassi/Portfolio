@@ -1,3 +1,10 @@
+## Screenshots
+
+1. <img src="https://github.com/user-attachments/assets/982dc2c3-e348-46fe-ac21-12d3d2b04093" alt="Screenshot 1" width="400">
+   - This screenshot shows a repository that is already registered under someone else's account. To proceed, remove the existing remote pointing to their repository (origin), add your own repository as the remote, and then push your code:
+
+---
+
 **Cloning a React Project and Running Locally**
 
 ### `git clone https://github.com/gaurav-semwal/Portfolio.git`
