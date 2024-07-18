@@ -49,9 +49,9 @@ const Contact = () => {
 				EMAIL_JS_TEMPLATE_ID,
 				{
 					from_name: username,
-					to_name: "Nithin Manda",
+					to_name: "Gaurav Semwal",
 					reply_to: user_email,
-					to_email: "goudnithin77@gmail.com",
+					to_email: "gauravsemwal8572@gmail.com",
 					message: user_message,
 				},
 				EMAIL_JS_PUBLIC_KEY
@@ -103,7 +103,7 @@ const Contact = () => {
 							/>
 						</label>
 						<label className='flex flex-col'>
-							<span className=' font-medium mb-4'>Your email</span>
+							<span className=' font-medium mb-4'>Your Email</span>
 							<input
 								type='email'
 								name='email'
@@ -129,7 +129,7 @@ const Contact = () => {
 
 						<button
 							type='submit'
-							className='pt-3 px-8 rounded-xl outline-none w-fit font-bold shadow-md bg-gray-900'
+							className='py-3 px-8 rounded-xl outline-none w-fit font-bold shadow-md bg-gray-900'
 						>
 							{loading ? "Sending..." : "Send"}
 						</button>
