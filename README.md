@@ -7,7 +7,7 @@
 
 **Cloning a React Project and Running Locally**
 
-### `git clone https://github.com/gaurav-semwal/Portfolio.git`
+### `https://github.com/Chaishtabassi/Portfolio.git`
 ### `cd Portfolio`
 
 **Look at the files and folders of the project.**
