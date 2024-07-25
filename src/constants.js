@@ -1,5 +1,4 @@
-import cj from "./assets/cj.png"
-export const services = [
+  export const services = [
   {
     title: "Technology Enthusiast",
     icon: "https://csgeeek.github.io/web.png",
@@ -14,35 +13,47 @@ export const services = [
   },
 ];
 
-export const name = "Gaurav Semwal";
+export const name = "Chaishta Bassi";
 
 export const experiences = [
+  {
+    company: "Teleforce Global Services Corporation",
+    role: "Software Engineer (React Native)",
+    duration: "Oct 2023 – Present",
+    logo: "https://media.licdn.com/dms/image/C560BAQEjvK2PY6-0aQ/company-logo_200_200/0/1630641381681?e=2147483647&v=beta&t=Bu5JAclbv3YAzktt-sf4NomTfT-wOLaVrdOg56ubqiY",
+    points: [
+      "Responsible for translating design mock-ups and wireframes into responsive, high-performance mobile user interfaces, ensuring a seamless user experience across devices.",
+      "Proficient in integrating RESTful APIs, third-party libraries, and services to enhance app functionality and user engagement.",
+      "Skilled in identifying and resolving technical challenges and bugs, ensuring the stability and reliability of the applications developed ⚙️.",
+    ],
+    url: "https://media.licdn.com/dms/image/C560BAQEjvK2PY6-0aQ/company-logo_200_200/0/1630641381681?e=2147483647&v=beta&t=Bu5JAclbv3YAzktt-sf4NomTfT-wOLaVrdOg56ubqiY",
+  },
     {
-        company: "Clikzop Innovations Private Limited",
+        company: "Apical Innovations",
         role: "Software Engineer (React Native)",
-        duration: "May 2024 – Present",
-        logo: cj,
+        duration: "Aug 2022 – Sep 2023",
+        logo: "https://media.licdn.com/dms/image/C4E0BAQEST_tmiWW_1g/company-logo_200_200/0/1631306811834?e=2147483647&v=beta&t=_9ycijlY7ABkXu4ZlBIMUIb4xM1Rngu7zIaq5uHcjRc",
         points: [
           "Development and Enhancement: Worked on the development and enhancement of the company’s internal products, implementing best practices to improve performance and user experience.",
           "Client Projects: Contributed to various client projects, delivering customized solutions to meet specific client needs and requirements.",
           "Implemented data security for the company’s product to provide role-based access control ⚙️.",
         ],
-        url: "file:///C:/Users/om/Downloads/1661506022170.jfif",
+        url: "https://media.licdn.com/dms/image/C4E0BAQEST_tmiWW_1g/company-logo_200_200/0/1631306811834?e=2147483647&v=beta&t=_9ycijlY7ABkXu4ZlBIMUIb4xM1Rngu7zIaq5uHcjRc",
       },
       {
-        company: "Appinventiv Technology",
+        company: "Infotech Leanvia",
         role: "Software Trainee (React Native)",
-        duration: "Jul 2023 – Apr 2024",
-        logo: "https://imgs.search.brave.com/_HKYZfFYcn3cxuASR6vVezVCN8Hv5_Kn413ZDOMIqfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YnVzaW5lc3NvZmFw/cHMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzExL0Fw/cGludmVudGl2LU1v/YmlsZS1BcHAtRGV2/ZWxvcG1lbnQtRmly/bS0xMDI0eDEwMjQu/anBn",
+        duration: "June 2022 – July 2022",
+        logo: "https://media.licdn.com/dms/image/C560BAQGDtcPWChBMuA/company-logo_200_200/0/1631427760778/leanvia_logo?e=2147483647&v=beta&t=E_dEsc6kt2PnpzUG_CYO-iTCiedcvyBpBirARC-Yy_Q",
         points: [
           "Learning and Implementation: Learned React Native from scratch, progressing to advanced concepts and implementations within a short period.",
           "API Integration: Integrated APIs for various authentication flows, including login, register, forget password, and OTP screens, utilizing access tokens.",
           "State Management: Managed application state using Redux, optimizing functional components with React Hooks to achieve superior performance and code maintainability.",
         ],
-        url: "https://imgs.search.brave.com/_HKYZfFYcn3cxuASR6vVezVCN8Hv5_Kn413ZDOMIqfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YnVzaW5lc3NvZmFw/cHMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzExL0Fw/cGludmVudGl2LU1v/YmlsZS1BcHAtRGV2/ZWxvcG1lbnQtRmly/bS0xMDI0eDEwMjQu/anBn",
+        url: "https://media.licdn.com/dms/image/C560BAQGDtcPWChBMuA/company-logo_200_200/0/1631427760778/leanvia_logo?e=2147483647&v=beta&t=E_dEsc6kt2PnpzUG_CYO-iTCiedcvyBpBirARC-Yy_Q",
       },
 ];
 
-export const EMAIL_JS_SERVICE_ID = "service_90wb9t5";
-export const EMAIL_JS_TEMPLATE_ID = "template_8l87rew";
-export const EMAIL_JS_PUBLIC_KEY = "pHPjc9RGGkF66r86N";
+export const EMAIL_JS_SERVICE_ID = "service_ny4q98r";
+export const EMAIL_JS_TEMPLATE_ID = "template_wn75n8n";
+export const EMAIL_JS_PUBLIC_KEY = "YUusFTyoJth68yK2-";

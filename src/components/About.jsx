@@ -37,8 +37,7 @@ const About = () => {
               Introduction
             </h2>
             <p className="mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]">
-              👨‍💻 Hi, I'm Gaurav Semwal, a 2023 post graduate🎓 with a Master of
-              Computer Applications (MCA) degree. I have a passion for crafting
+              👨‍💻 Hi, I'm Chaishta Bassi, a 2022 post graduate🎓 with a BTech (Bachelor of Technology) degree. I have a passion for crafting
               mobile applications. As a seasoned React Native developer, I
               specialize in creating engaging mobile apps using React Native and
               various modern web technologies including JavaScript, HTML, CSS,
@@ -61,7 +60,7 @@ const About = () => {
             </p>
 
             <ButtonLink
-              url="https://drive.google.com/file/d/1RZOhbtgoF5x2saGPkR-ULnbpuoyG_QHm/view?usp=drivesdk  "
+              url="https://drive.google.com/file/d/1p6ZdFWfGgq1Jlqk9hYKbAQeuJRv3KzHc/view?usp=drivesdk"
               text="View Resume →"
               padding={`p-3`}
             />
