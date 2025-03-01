@@ -1,6 +1,7 @@
 {
   "name": "portfolio-nithin",
   "version": "0.1.0",
+  "homepage": "https://Chaishtabassi.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
