@@ -99,22 +99,6 @@ const Projects = () => {
           </div>
         ))}
       </div>
-      <div className="flex flex-col items-center mt-8">
-        <h2 className="text-white text-xl font-bold mb-4">Here are some Play Store links:</h2>
-        <div className="flex justify-center space-x-4">
-          {playStoreLinks.map((link, index) => (
-            <a
-              key={index}
-              href={link.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300"
-            >
-              {link.title}
-            </a>
-          ))}
-        </div>
-      </div>
       <Footer />
     </div>
   );
